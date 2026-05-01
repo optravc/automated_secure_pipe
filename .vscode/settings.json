@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "optravc-dev",
+        "projectKey": "optravc_automated_secure_pipe"
+    }
+}
